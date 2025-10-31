@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>一叶方庭</title><link>https://Nature314.github.io/yyft.github.io</link><description>于细微处见大千，于方寸间纳乾坤。</description><copyright>一叶方庭</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Nature314.github.io/yyft.github.io</link></image><lastBuildDate>Thu, 30 Oct 2025 14:18:37 +0000</lastBuildDate><managingEditor>一叶方庭</managingEditor><ttl>60</ttl><webMaster>一叶方庭</webMaster><item><title>day5</title><link>https://Nature314.github.io/yyft.github.io/post/day5.html</link><description># 今日所获
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>一叶方庭</title><link>https://Nature314.github.io/yyft.github.io</link><description>于细微处见大千，于方寸间纳乾坤。</description><copyright>一叶方庭</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Nature314.github.io/yyft.github.io</link></image><lastBuildDate>Fri, 31 Oct 2025 15:32:28 +0000</lastBuildDate><managingEditor>一叶方庭</managingEditor><ttl>60</ttl><webMaster>一叶方庭</webMaster><item><title>day6</title><link>https://Nature314.github.io/yyft.github.io/post/day6.html</link><description># 今日完成
+完成了内容区域大致布局，内容区域的第一行及第二行的大致部分
+
+# 效果说明
+引入字体Tobias、引入轮播图OwlCarousel2-2.3.4
+
+
+# 感想
+今天算是锻炼了查看别人技术文档以及合理使用Ai来辅助编程的能力了，有时候你需要实现别人插件的某个功能，直接问AI会更快些。</description><guid isPermaLink="true">https://Nature314.github.io/yyft.github.io/post/day6.html</guid><pubDate>Fri, 31 Oct 2025 15:31:54 +0000</pubDate></item><item><title>day5</title><link>https://Nature314.github.io/yyft.github.io/post/day5.html</link><description># 今日所获
 了解了版心和设计稿。</description><guid isPermaLink="true">https://Nature314.github.io/yyft.github.io/post/day5.html</guid><pubDate>Thu, 30 Oct 2025 14:18:01 +0000</pubDate></item><item><title>day4</title><link>https://Nature314.github.io/yyft.github.io/post/day4.html</link><description># 今日完成
 一行
 
